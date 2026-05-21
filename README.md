@@ -62,6 +62,8 @@ g++ -std=c++17 -Wall -Wextra -pedantic password_hash.cpp -o password_hash
 g++ -std=c++17 -Wall -Wextra -pedantic salted_password_hash.cpp -o salted_password_hash
 ```
 
+> Trên Windows, nếu bạn chưa có `bash`/`g++` trong PowerShell, hãy dùng Git Bash, MSYS2 hoặc WSL để chạy các lệnh shell và biên dịch.
+
 ### Cách 4: Dùng CMake
 
 ```bash

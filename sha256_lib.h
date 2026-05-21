@@ -8,6 +8,7 @@
 #include <fstream>
 #include <iomanip>
 #include <ios>
+#include <iterator>
 #include <sstream>
 #include <stdexcept>
 #include <string>
